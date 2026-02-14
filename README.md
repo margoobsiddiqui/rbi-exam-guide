@@ -1,1 +1,1 @@
-# rbi-exam-guide
+# rbi-exim-guide
